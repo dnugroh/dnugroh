@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="icon" href="favicon.png" type="image/x-icon">
+</head>
+
+<body>
+    <h1>RESUME</h1>
+
+    <img src="profil.png" alt="Profil Dedy A. Nugroho">
+
+    <h2>Dedy Agung Nugroho</h2>
+
+    <h3>Ringkasan</h3>
+    <p>Perkenalkan, saya seorang bocah kampung yang yang tertarik untuk belajar hal baru. Saya berusaha untuk menulis
+        apapun sebegi pengingat saya untuk terus selalu berusaha menjadi orang baik. Terlahir dari subuah kabupaten di
+        bagian timur pulau jawa, membuat saya cukup terlena dalam menjalani kehidupan. Untuk itu saya sedang dalam
+        proses untuk meningkatkan kemampuan saya, baik itu dalam hal <I>Hard Skill</I> ataupun <i>Soft Skill</i>. </p>
+
+    <h3>Pendidikan</h3>
+    <p>SMK Negeri 1 Singosari - Malang (Mekanik Industri)</p>
+
+    <h3>Pengalaman Kerja</h3>
+    <ol>
+        <li> PT. Prima Sakti - Maintenance (2017-2019)</li>
+        <li>PT. Primapack Indonesia - Operator Produksi (2019-Sekarang)</li>
+    </ol>
+
+    <h3>Keahlian</h3>
+    <ul>
+        <li>Adobe Photoshop</li>
+        <li>Adobe Illustrator</li>
+        <li>Adobe Ligthingroom</li>
+        <li>Sketchup</li>
+    </ul>
+
+
+    <h3>Interest</h3>
+    <p>Saya tertarik belajar <i>Fullstack Developer</i>, untuk itu saya harus menguasai <i>Front End</i> dan <i>Back
+            End</i>. </p>
+
+    <h3>Pengalaman Organisasi</h3>
+    <table>
+        <tr>
+            <th>Nama Organisasi</th>
+            <th>Jabatan</th>
+            <th>Tahun Aktif</th>
+        </tr>
+        <tr>
+            <td>Remaja Masjid</td>
+            <td>Wakil Ketua</td>
+            <td>2016-2017</td>
+        </tr>
+        <tr>
+            <td>Karang Taruna</td>
+            <td>Humas</td>
+            <td>2017-2019</td>
+        </tr>
+        <tr>
+            <td>English Conversation Club</td>
+            <td>Pengajar</td>
+            <td>2019-2020</td>
+        </tr>
+    </table>
+
+
+</body>
+
+</html>
